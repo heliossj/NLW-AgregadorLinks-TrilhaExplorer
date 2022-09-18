@@ -4,7 +4,7 @@
 
 > Trilha Explorer
 
-Projeto contrúido no evenot Next Level Week (NLW) da Rocketseat
+Projeto contruído no evento Next Level Week (NLW) da Rocketseat
 
 ## Tecnologias
 - HTML
