@@ -16,6 +16,11 @@ body {
     background-color: #121214;
 }
 
+body * {
+    font-family: 'Inter', sans-serif;
+    line-height: 160%;
+}
+
 header {
     margin-top: 32px;
     height: calc(120px + 32px);
@@ -28,7 +33,6 @@ header div {
     border-radius: 50%;
     display: flex;
     padding: 4px;
-
     transition: transform .3s;
 }
 
@@ -39,11 +43,6 @@ header div:hover{
 header div img {
     width: 100%;
     border-radius: 50%;
-}
-
-body * {
-    font-family: 'Inter', sans-serif;
-    line-height: 160%;
 }
 
 main {
