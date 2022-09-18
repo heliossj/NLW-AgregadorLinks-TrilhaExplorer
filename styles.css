@@ -125,6 +125,17 @@ main section:nth-child(3){
     animation-delay: .8s;
 }
 
+footer{
+    margin-bottom: 5px;
+}
+
+footer p{
+    color: #fff;
+    font-size: 11px;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+}
+
 @keyframes fromTop{
     from {
         opacity: 0;
